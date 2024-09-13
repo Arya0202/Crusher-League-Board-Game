@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : League Crusher
-// Author      : Ananya, Arya, Anshul
+// Author      : Arya
 // Description : Follows candy crush rules
 //============================================================================
 
