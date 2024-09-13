@@ -15,11 +15,11 @@ League Crusher is a simple, console-based tile-matching game where players need 
 
 **How to Play**
 - Set Up the Game:
-- Enter the board size, the maximum number of tile types (colors), and a seed for generating random numbers when prompted.
+  Enter the board size, the maximum number of tile types (colors), and a seed for generating random numbers when prompted.
 - Make Moves:
-- Enter the coordinates of the source and target tiles to swap them. A valid move will result in eliminating tiles and scoring points.
+  Enter the coordinates of the source and target tiles to swap them. A valid move will result in eliminating tiles and scoring points.
 - End Game:
-- The game will automatically end when no valid moves are left. Your total score will be displayed at the end.
+  The game will automatically end when no valid moves are left. Your total score will be displayed at the end.
 
 **Game Mechanics**
 - Board Generation: The board is initialized as an N x N grid with random tile types, ensuring no pre-existing matches using backtracking.
